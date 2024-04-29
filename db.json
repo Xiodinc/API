@@ -2,10 +2,30 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Red"
+    },
+    {
+      "id": 2,
+      "title": "Yellow"
+    },
+    {
+      "id": 3,
+      "title": "Blue"
+    },
+
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "collection": {
+    "posts": "This collection is the representation of the primary colors.",
+    "users": "This collection represents two users who are part of the system."
   }
 }
